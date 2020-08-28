@@ -1,4 +1,4 @@
-![](\imagens\Screenshot_1.png)
+![Screenshot](Screenshot_1.png)
 
 <h4 align="center"> 
 	🚧 MinimalistPage 🚀 em construção... 🚧
