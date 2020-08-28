@@ -1,6 +1,4 @@
-<h1 align="center">
-    <img alt="SurfRider" title="#SurfRider" src =C:\Users\Carlos\Documents\GitHub\Projeto_2\project\Projeto_03\imagens\Screenshot_1.png />
-</h1>
+![](C:\Users\Carlos\Documents\GitHub\Projeto_2\project\Projeto_03\imagens\Screenshot_1.png)
 
 <h4 align="center"> 
 	🚧 MinimalistPage 🚀 em construção... 🚧
